@@ -1,0 +1,2 @@
+# Overview
+Mapty is a web application written with JS, HTML & CSS that allows users to add recent workouts (either running or cycling) to an interactive world map. To make it easier to geolocate previous excercises, and also to have some fun working with a new API.
